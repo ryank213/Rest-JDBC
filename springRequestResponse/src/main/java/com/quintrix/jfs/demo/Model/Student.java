@@ -1,4 +1,4 @@
-package com.quintrix.jfs.demo;
+package com.quintrix.jfs.demo.Model;
 
 import org.springframework.boot.autoconfigure.domain.EntityScan;
 
